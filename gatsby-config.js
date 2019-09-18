@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'RPL Indonesia',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'RPL Indonesia adalah sebuah komunitas yang dibentuk untuk mengembangkan keterampilan/skill di bidang IT khususnya anak" SMK dan Mahasiswa. Di RPL Indonesia kita dapat berdiskusi, belajar bersama dan sharing tentang dunia IT, baik pemprograman, jaringan dll.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
