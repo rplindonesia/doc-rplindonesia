@@ -1,19 +1,22 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Tentang Kami
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### RPL Indonesia
+RPL Indonesia adalah tempat ajang silaturahmi RPL se-Indonesia.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+RPL Indonesia adalah sebuah komunitas yang dibentuk untuk mengembangkan keterampilan/skill di bidang IT khususnya anak" SMK dan Mahasiswa. Di RPL Indonesia kita dapat berdiskusi, belajar bersama dan sharing tentang dunia IT, baik pemprograman, jaringan dll.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+#### Klik suka dan ikuti halaman facebook RPL Indonesia terlebih dahulu
+👉🏻 <a href="https://www.facebook.com/RPLIDN/">https://www.facebook.com/RPLIDN/</a>
+##### Jangan lupa juga, untuk follow instagram nya RPL Indonesia
+👉🏻 <a href="https://www.facebook.com/RPLIDN/">https://instagram.com/rplindonesia</a>
+##### Ini link grup telegram RPL Indonesia
+👉🏻 <a href="https://www.facebook.com/RPLIDN/">https://t.me/rplindonesia</a>
+##### Selanjutnya link grup whatsapp RPL Indonesia
+👉🏻 <a href="https://www.facebook.com/RPLIDN/">https://chat.whatsapp.com/GSgRKejAJYPGve5CHVqw7K</a>
+##### Link grup Android - RPL Indonesia
+👉🏻 <a href="https://www.facebook.com/RPLIDN/">https://chat.whatsapp.com/DE4RNlAI0jIDYWB3rEe1u9</a>
+##### Yang terakhir ini link discord RPL Indonesia
+👉🏻 <a href="https://www.facebook.com/RPLIDN/">https://discord.gg/VQ22TxM</a>
