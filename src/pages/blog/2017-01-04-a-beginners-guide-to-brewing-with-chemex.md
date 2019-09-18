@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'KULWAP #5 INTRODUCE BASIC CODEIGNITER'
+title: 'KULWAP #6 INTRODUCE BASIC CODEIGNITER'
 date: 2019-09-15T15:04:10.000Z
 description: >-
   Kulwap??
