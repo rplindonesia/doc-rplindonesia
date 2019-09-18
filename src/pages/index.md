@@ -1,23 +1,13 @@
 ---
 templateKey: index-page
 title: BERSAMA KITA BISA
-image: /img/home-jumbotron.jpg
+image: /img/enter.jpg
 heading: BERSAMA KITA BISA
 subheading: '#rplbisa #smkbisa'
 mainpitch:
   title: RPL Indonesia
-  description: >-
-    RPL Indonesia adalah sebuah komunitas yang dibentuk untuk mengembangkan
-    keterampilan/skill di bidang IT khususnya anak" SMK dan Mahasiswa.
-
-
-    Di RPL Indonesia kita dapat berdiskusi, belajar bersama dan sharing tentang
-    dunia IT, baik pemprograman, jaringan dll.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  description: Tempat ajang silaturahmi RPL Indonesia
+description: Web ini bertujuan untuk media informasi dan dokumentas RPL Indonesia
 intro:
   blurbs:
     - image: /img/coffee.png
